@@ -1,0 +1,5 @@
+-- sql_scripts/create_table.sql
+CREATE OR REPLACE TABLE demo_table (
+    id INT,
+    name STRING
+);
